@@ -17,10 +17,10 @@
 #### [6. Rings 6/29/21](https://codesandbox.io/s/rings-w1hgr?file=/src/App.js) 
 ![image](https://user-images.githubusercontent.com/75579372/123844085-751f2900-d8c7-11eb-9870-d16fb7a958ff.png)
 
-#### [7. DONUT!! 6/30/21]
+#### 7. DONUT!! 6/30/21
 ![image](https://user-images.githubusercontent.com/75579372/124318521-9e40f300-db2d-11eb-8140-9e015c5461e2.png)
 
-#### [8. Dinosaur 7/1/21)
+#### 8. Dinosaur 7/1/21
 ![image](https://user-images.githubusercontent.com/75579372/124319615-558a3980-db2f-11eb-8daf-8934a10373f5.png)
 
 #### [9. Epic Music Player With Cubes and Spheres 7/1/21](https://codesandbox.io/s/musicplayer-561ny?file=/src/index.js) 
