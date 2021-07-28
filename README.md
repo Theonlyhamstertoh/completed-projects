@@ -38,3 +38,7 @@ Refresh if show error
 #### 11. [Stacks](https://stacks-iota.vercel.app/)
 ![image](https://user-images.githubusercontent.com/75579372/125214510-6ee85f80-e26c-11eb-928b-7db49c11d0e1.png)
 
+## Wednesday - 7/28/21
+#### 12. Exploration with React Three Drei `<Html>` component
+![image](https://user-images.githubusercontent.com/75579372/127374166-68cc5165-c545-4dd2-bddc-b63031273220.png)
+
