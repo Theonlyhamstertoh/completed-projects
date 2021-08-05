@@ -42,3 +42,13 @@ Refresh if show error
 #### 12. Exploration with React Three Drei `<Html>` component
 ![image](https://user-images.githubusercontent.com/75579372/127374166-68cc5165-c545-4dd2-bddc-b63031273220.png)
 
+## Wednesday - 8 / 4 / 21
+#### 13. Maze Generation!
+![image](https://user-images.githubusercontent.com/75579372/128434699-88945ac5-ffbe-4461-81f1-ce809ae3bd13.png)
+
+
+## Thursday - 8 /5/ 21
+#### 14. Table in blender
+![image](https://user-images.githubusercontent.com/75579372/128434674-458f0369-9e2d-43fb-879c-fb69fcf6a1f8.png)
+
+
