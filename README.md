@@ -47,8 +47,11 @@ Refresh if show error
 ![image](https://user-images.githubusercontent.com/75579372/128434699-88945ac5-ffbe-4461-81f1-ce809ae3bd13.png)
 
 
-## Thursday - 8 /5/ 21
+## Thursday - 8 / 5 / 21
 #### 14. Table in blender
 ![image](https://user-images.githubusercontent.com/75579372/128434674-458f0369-9e2d-43fb-879c-fb69fcf6a1f8.png)
 
+## Friday - 8 / 6 / 2021
+#### 15. Apartment Complex
+![image](https://user-images.githubusercontent.com/75579372/128580158-2a79503d-19ba-4587-af65-ba5e6af17365.png)
 
