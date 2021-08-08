@@ -66,5 +66,4 @@ Refresh if show error
 ![image](https://user-images.githubusercontent.com/75579372/128638565-c508dc5a-3675-41d5-a1e7-bd0b99fe8be1.png)
 
 #### 18. A bunch of models
-![Uploading image.png…]()
-
+![image](https://user-images.githubusercontent.com/75579372/128649269-04dbbc19-ee98-4fbf-a836-6ab22d149391.png)
