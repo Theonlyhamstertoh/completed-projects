@@ -51,9 +51,18 @@ Refresh if show error
 #### 14. Table in blender
 ![image](https://user-images.githubusercontent.com/75579372/128434674-458f0369-9e2d-43fb-879c-fb69fcf6a1f8.png)
 
-## Friday - 8 / 6 / 2021
+## Friday - 8 / 6 / 21
 #### 15. Apartment Complex
 ![image](https://user-images.githubusercontent.com/75579372/128580158-2a79503d-19ba-4587-af65-ba5e6af17365.png)
 
 ![image](https://user-images.githubusercontent.com/75579372/128580402-1d498d71-4c08-4fd9-ae0d-b72ff86225ef.png)
 
+## Saturday 8/7/21
+#### 16. Barnhouse
+![image](https://user-images.githubusercontent.com/75579372/128638534-b9a06d86-4c74-4579-b971-53a69c2dfaf2.png)
+
+## Sunday 8//8/21
+#### 17. Height Map
+https://www.youtube.com/watch?v=t705r8ICkRw
+
+#### 18. A bunch of models
