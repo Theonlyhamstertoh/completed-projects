@@ -1,6 +1,6 @@
 # completed-projects
 
-## `Friday, 6/23/21`
+## `Wednesday, 6/23/21`
 #### [1. Galaxy Generator  6/24/21](https://codesandbox.io/s/eloquent-jennings-d4bmx?file=/src/index.js)
 ![image](https://user-images.githubusercontent.com/75579372/123845133-ad733700-d8c8-11eb-9447-cf88bddaa27c.png)
 
